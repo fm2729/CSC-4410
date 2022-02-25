@@ -1,0 +1,29 @@
+Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+###Assignment 6 Issue 1###
+# Revision number BEGIN/ 02/25/22
+## Begin Hussein El Sibai
+##Read a value from the user
+string = '"Hussein El Sibai"'
+print(string)
+
+string = '"Hussein El Sibai"'
+print(string)
+"Hussein El Sibai"
+string1 = "Hussein's Pizza"
+print(string1)
+Hussein's Pizza
+print("""
+Hello
+ World
+ """)
+
+Hello
+ World
+ 
+print("Hussein\nEl Sibai")
+Hussein
+El Sibai
+# Revision number 1/ 02/25/22
+## End Hussein El Sibai
+# Zion Worship Cult/ Ram Vuduku/ Rich Eissen/ project # the Zion Project
